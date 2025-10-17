@@ -1,5 +1,5 @@
 # xhammer
-Ripping xHamster with yt-dlp_linux (maybe Windows too?) has been broken for a while now. This is quick and dirty (pun intended) wrapper to allow ripping videos from the site.
+Ripping xHamster with yt-dlp_linux (maybe Windows too?) has been broken for a while now. This is a quick and dirty fix (pun intended) wrapper to allow ripping videos from the site again.
 
 
 # Requirements
